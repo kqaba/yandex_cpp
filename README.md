@@ -39,7 +39,7 @@
 ![изображение](https://user-images.githubusercontent.com/110821533/235262978-e0f43987-16e3-48eb-a478-301a65de7b53.png)
  Спринт 10 - (основа транспортно справочника)
  
-file:///C:/Users/duduk/OneDrive/Изображения/2.png Спринт 11 - (добавление визуализации карты маршрутов транспортного справочника (конечная версия - ![изображение](https://user-images.githubusercontent.com/110821533/235263240-4ba273c5-59cb-4d5e-a8dd-fc297889467c.png)
+![изображение](https://user-images.githubusercontent.com/110821533/235262881-bdfa2034-d4e5-4ab6-b034-5e8d2bba2bfc.png) Спринт 11 - (добавление визуализации карты маршрутов транспортного справочника (конечная версия - ![изображение](https://user-images.githubusercontent.com/110821533/235263240-4ba273c5-59cb-4d5e-a8dd-fc297889467c.png)
  
 нынешнаяя версия - 
 
