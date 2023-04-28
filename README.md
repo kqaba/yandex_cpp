@@ -3,7 +3,7 @@
 Модуль 1 - Основные компоненты С++
 
 ![изображение](https://user-images.githubusercontent.com/110821533/235262881-bdfa2034-d4e5-4ab6-b034-5e8d2bba2bfc.png)
- [dev/sprint-1](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_1) - (основа поисковой системы)
+ [sprint-1](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_1) - (основа поисковой системы)
  
 ![изображение](https://user-images.githubusercontent.com/110821533/235262908-ff45f781-cb1e-4741-8c0c-1f81c7001825.png)
  Спринт 2 - (улучшение результатов поиска спомощью статической мере TD-IDF-https://ru.wikipedia.org/wiki/TF-IDF)
