@@ -37,7 +37,7 @@
  
 
 ![изображение](https://user-images.githubusercontent.com/110821533/235262978-e0f43987-16e3-48eb-a478-301a65de7b53.png)
- [sprint-10](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_10) - (основа транспортно справочника)
+ [sprint-10](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_10) - (основа транспортного справочника)
  
 ![изображение](https://user-images.githubusercontent.com/110821533/235262881-bdfa2034-d4e5-4ab6-b034-5e8d2bba2bfc.png) [sprint-11](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_11) - (добавление визуализации карты маршрутов транспортного справочника (конечная версия - ![изображение](https://user-images.githubusercontent.com/110821533/235263240-4ba273c5-59cb-4d5e-a8dd-fc297889467c.png)
  
