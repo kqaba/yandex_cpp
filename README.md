@@ -21,7 +21,7 @@
 Модуль 2 - Эффиктивность кода 
 
 ![изображение](https://user-images.githubusercontent.com/110821533/235262930-e0b07ff9-9026-4daf-8470-98b42ed650b9.png)
- [sprint-6](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_6) - (добавление депупликации документа + рофилирование + оптимизация + асимптотическая сложность алгоритмов)
+ [sprint-6](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_6) - (добавление депупликации документа + профилирование + оптимизация + асимптотическая сложность алгоритмов)
  
 ![изображение](https://user-images.githubusercontent.com/110821533/235262935-26992f54-bb17-46d5-8d5e-db86d18b50c2.png)
 [sprint-7](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_7) - (Создание своего односвязного списка)
