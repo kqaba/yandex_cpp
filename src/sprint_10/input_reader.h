@@ -1,0 +1,30 @@
+#pragma once 
+ 
+#include <iostream> 
+#include <stdio.h> 
+#include <string> 
+#include <list> 
+#include "transport_catalogue.h" 
+ 
+namespace catalogue { 
+    namespace reader { 
+        class InputReader { 
+        public: 
+            InputReader(TransportCatalogue& catalogue, std::istream& stream = std::cin) : catalogue{ catalogue }, stream{ stream } {}; 
+            void ReadQueues( std::istream & = std::cin); 
+ 
+        private: 
+            void ReadStops(const std::vector<std::string>& queue); 
+            void ReadBuses(const std::vector<std::string>& queue); 
+ 
+            std::vector<std::string> ReadStops(const std::string_view queue, const char separator); 
+ 
+            std::string_view Simplified(const std::string_view); 
+            std::deque<std::string_view> Split(const std::string_view text, const char separator); 
+            std::deque<std::string_view> Split(const std::string_view text, const std::string_view separator); 
+ 
+            TransportCatalogue& catalogue; 
+            std::istream& stream; 
+        }; 
+    } 
+} 
