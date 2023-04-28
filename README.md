@@ -73,13 +73,21 @@
 *Входные данные могут быть такими - [main.cpp](https://github.com/kqaba/yandex_cpp/blob/main/src/sprint_9/main.cpp)
 
 *Выходные данные - ACTUAL by default:
+
 { document_id = 2, relevance = 0.866434, rating = 1 }
+
 { document_id = 4, relevance = 0.231049, rating = 1 }
+
 { document_id = 1, relevance = 0.173287, rating = 1 }
+
 { document_id = 3, relevance = 0.173287, rating = 1 }
+
 BANNED:
+
 Even ids:
+
 { document_id = 2, relevance = 0.866434, rating = 1 }
+
 { document_id = 4, relevance = 0.231049, rating = 1 }
 
 ## Транспортный справвочник 
