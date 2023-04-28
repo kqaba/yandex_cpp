@@ -1,9 +1,9 @@
-# Yandex Practicum C++
+## Yandex Practicum C++
 
-Модуль 1 - Основные компоненты С++
+## Модуль 1 - Основные компоненты С++
 
 ![изображение](https://user-images.githubusercontent.com/110821533/235262881-bdfa2034-d4e5-4ab6-b034-5e8d2bba2bfc.png)
- [sprint-1](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_1) - (основа поисковой системы)
+ ##[sprint-1](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_1) - (основа поисковой системы)
  
 ![изображение](https://user-images.githubusercontent.com/110821533/235262908-ff45f781-cb1e-4741-8c0c-1f81c7001825.png)
  [sprint-2](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_2) - (улучшение результатов поиска спомощью статической мере TD-IDF-https://ru.wikipedia.org/wiki/TF-IDF)
@@ -18,7 +18,7 @@
  [sprint-5](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_5) - (Добавление в посковую систему итератов + алгоритмов + стека/очереди/дэка + разбиение проекта на файлы)
  
 
-Модуль 2 - Эффиктивность кода 
+## Модуль 2 - Эффиктивность кода 
 
 ![изображение](https://user-images.githubusercontent.com/110821533/235262930-e0b07ff9-9026-4daf-8470-98b42ed650b9.png)
  [sprint-6](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_6) - (добавление депупликации документа + профилирование + оптимизация + асимптотическая сложность алгоритмов)
@@ -33,7 +33,7 @@
  [sprint-9](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_9) - (Итоговая версия поиского сервера (добавление паралеливания запросов посиковой системы + паралеливание методов + паралеливание поиска докупентов))
  
 
- Модуль 3 - Элегантность и маштабируемость 
+ ## Модуль 3 - Элегантность и маштабируемость 
  
 
 ![изображение](https://user-images.githubusercontent.com/110821533/235262978-e0f43987-16e3-48eb-a478-301a65de7b53.png)
