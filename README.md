@@ -41,7 +41,7 @@
  
 ![изображение](https://user-images.githubusercontent.com/110821533/235262881-bdfa2034-d4e5-4ab6-b034-5e8d2bba2bfc.png) [sprint-11](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_11) - (добавление визуализации карты маршрутов транспортного справочника (конечная версия - ![изображение](https://user-images.githubusercontent.com/110821533/235263240-4ba273c5-59cb-4d5e-a8dd-fc297889467c.png)
  
-нынешнаяя версия - 
+нынешняя версия - 
 
 ![изображение](https://user-images.githubusercontent.com/110821533/235263592-abbc0211-90b2-4e2c-99a1-17adf7eb73c7.png)
 
