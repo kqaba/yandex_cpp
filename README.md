@@ -49,4 +49,4 @@
 
 ![изображение](https://user-images.githubusercontent.com/110821533/235262881-bdfa2034-d4e5-4ab6-b034-5e8d2bba2bfc.png) [sprint-12](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_12) - (Добавление вспомогательной библиотеки для построения JSON с помощью цепочек вызова методов для транспортного справочника)
 
-[x]Поисковой сервер
+- [x] Поисковой сервер
