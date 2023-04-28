@@ -6,7 +6,7 @@
  [sprint-1](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_1) - (основа поисковой системы)
  
 ![изображение](https://user-images.githubusercontent.com/110821533/235262908-ff45f781-cb1e-4741-8c0c-1f81c7001825.png)
- [sprint-2](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_2) - (улучшение результатов поиска спомощью статической мере TD-IDF-https://ru.wikipedia.org/wiki/TF-IDF)
+ [sprint-2](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_2) - (улучшение результатов поиска спомощью статической меры TD-IDF-https://ru.wikipedia.org/wiki/TF-IDF)
  
 ![изображение](https://user-images.githubusercontent.com/110821533/235262912-372f001c-0332-442b-8875-b24e135227a4.png)
  [sprint-3](https://github.com/kqaba/yandex_cpp/tree/main/src/sprint_3) - (добавление фреймворка автотестирования поисковой системы)
