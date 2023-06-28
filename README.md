@@ -61,7 +61,7 @@
 
 -нынешняя версия транспортного справочника  
 
-![изображение](https://user-images.githubusercontent.com/110821533/235263240-4ba273c5-59cb-4d5e-a8dd-fc297889467c.png
+![изображение](https://user-images.githubusercontent.com/110821533/235263240-4ba273c5-59cb-4d5e-a8dd-fc297889467c.png)
 
 ## Модуль 5 - Дипломный проект 
 
